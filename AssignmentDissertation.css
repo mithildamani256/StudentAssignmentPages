@@ -1,0 +1,285 @@
+.main-header
+{
+  padding-left: 22px !important;
+}
+.top-image
+{
+  margin-right:50px;
+}
+.li-item-nav
+{
+  padding:8px;
+}
+.nav-btn
+{
+  height: 44;
+width: 146;
+background-color: orange;
+color: white;
+font-weight: 700;
+animation: shadow-pulse 2s infinite;
+}
+.nav-btn:hover
+{
+  opacity: 1 !important;
+background-color: #1c3971 !important;
+color: #ffffff !important;
+text-decoration:none;
+}
+.div-nav-icon
+{
+  background-color: #1c3971 !important;
+height: 45;
+width: 45;
+text-align: center;
+padding-top: 13;
+color: white;
+font-size: 19;
+}
+.banner-below
+{
+  background-image: url("https://www.studentsassignmenthelp.com/wp-content/themes/students/assets/css/../images/homework/homewok-bg.webp");
+  background-size: cover;
+}
+.banner-below-heading
+{
+  color: white;
+text-align: center;
+font-size: 41;
+}
+.banner-below-para
+{
+  color: white;
+text-align: center;
+line-height: 2;
+}
+.banner-below-div
+{
+  height: 63;
+text-align: center;
+padding-top: 10;
+color: white;
+font-weight: 600;
+background-color: #0000004a;
+border-radius: 10px;
+text-align:start;
+}
+.banner-below-icon
+{
+  background-color: white;
+color: orange;
+height: 45;
+width: 43;
+text-align: center;
+padding-top: 13;
+font-size: 18;
+}
+.banner-below-span
+{
+  margin-left:6px;
+  font-size:17px;
+}
+.banner-below-form
+{
+  background-color:white;
+  border-radius:20px;
+}
+.form-btn
+{
+  margin-left: -39px;
+  background-color: orange;
+  color:white;
+  width: 105;
+text-decoration: none !important;
+border-radius: 6px;
+}
+.banner-form-lastbtn
+{
+  margin-left: 90;
+  height: 44;
+  width: 244;
+  background-color: orange;
+  color: white;
+  font-weight: 700;
+  border-radius: 5px;
+}
+.ad-container
+{
+  background-image:url("https://www.studentsassignmenthelp.com/wp-content/themes/students/assets/css/../images/dissertation-writing-bg.webp")
+}
+.ad-div
+{
+  background-color:white;
+  border-radius:16px;
+  margin-top:30px;
+
+
+}
+.four-div
+{
+  background-image: linear-gradient(to bottom right,rgb(242 123 0 / 8%) 20%,rgb(8 37 84 / 12%) 100%) !important;
+  height:220px;
+  overflow:scroll;
+  border-radius: 12px;;
+}
+.four-div-para
+{
+  line-height:2;
+  margin-top:15px;
+}
+.four-div-head
+{
+  color: #1c3971;
+  text-align:start;
+  margin-top:10px;
+  font-size: 18; 
+  font-weight:700;
+}
+.ad-2-div
+{
+  min-height:100px;
+  background-color:black
+}
+.ad-2-head
+{
+  color:white;
+  text-align:start;
+  font-weight:300;
+  margin-top:20px;
+}
+.ad-2-div-inside
+{
+  margin-top:20px;
+    border-left: 3px solid orange;
+  margin-bottom:20px;
+
+}
+
+.ad-btn-1
+{
+  margin-top: 61;
+margin-left: 89;
+height: 50;
+width: 150;
+background-color: orange;
+border: 2px solid white;
+border-radius: 5px;
+color:white;
+}
+.ad-btn-1:hover{
+  background-color:blue;
+}
+.ul-list-tab
+{
+  justify-content:center;
+}
+.a-tag-nav
+{
+  padding:15 0px;
+  color: black !important;
+  background-color:#daecff;
+
+}
+.nav-1-head
+{
+  color:#1c3971;
+  font-weight:700;
+}
+.nav-1-para
+{
+  line-height:2;
+}
+.nav-1-div
+{
+height: 453px;
+overflow: scroll;
+}
+.li-item-scroll
+{
+  margin: 7 0px;
+}
+.para-div2-nav
+{
+  line-height: 2;
+}
+.div-for-ads
+{
+  background-image: linear-gradient(to bottom right,#051329 45%,#051f47 100%) !important;
+  min-height:100px;
+}
+.smallestdiv-for-ads
+{
+  background-color:white;
+  width:100%;
+  padding-bottom: 4;
+}
+.icon-for-ads
+{
+  text-align: center;
+margin-left: 95;
+margin-top: 12px;
+font-size: 40;
+}
+.head-for-ads
+{
+  text-align: center;
+margin-top: 10;
+color: orange;
+font-weight: 700;
+}
+.para-for-ads
+{
+  text-align: center;
+  margin-bottom:15px;
+}
+.collapse-btn-class
+{
+  color: black !important;
+text-decoration: none !important;
+}
+.ad3-div
+{
+  background-image: url(https://www.studentsassignmenthelp.com/wp-content/themes/students/assets/css/../images/cta-bg.webp);
+  background-size: cover;
+}
+.footer-div
+{
+  background-color: #f1f1f1;
+  margin: 3px;
+  height: 47;
+  font-size: 14;
+  padding-top: 12;
+  padding-left: 16;
+  border-radius:10px;
+}
+.footer-div:hover
+{
+  background-color:#1c3971;
+  color:white;
+}
+.trip-advisor-div
+{
+  border: 15px solid red;
+  padding:20px;
+}
+.last-class{
+  border-top: 1px solid grey;
+  text-align:center;
+}
+.last-para
+{
+  line-height:2;
+  margin-top:8px;
+}
+
+
+
+ 
+ @keyframes shadow-pulse {
+  0% {
+   box-shadow:0 0 0 0 rgba(0,0,0,.2)
+  }
+  100% {
+   box-shadow:0 0 0 35px rgba(0,0,0,0)
+  }
+ }
